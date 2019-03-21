@@ -1,3 +1,3 @@
 <sub> Some improvements are required </sub>
-#Trade Arbitrage
+# Trade Arbitrage
 Необходимо написать советника для поиска арбитража.
